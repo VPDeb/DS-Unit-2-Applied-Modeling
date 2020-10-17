@@ -82,4 +82,4 @@ Send2Trash = "==1.5.0"
 jupyterlab = "*"
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
