@@ -80,8 +80,8 @@ Pillow = "==7.2.0"
 Pygments = "==2.6.1"
 Send2Trash = "==1.5.0"
 jupyterlab = "*"
-kiwi-solver = "==1.2.0"
-shapely = "*"
+kiwi-solver = "==1.1.0"
+Shapely = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.8.5"
